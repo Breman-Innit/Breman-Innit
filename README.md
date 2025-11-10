@@ -1,7 +1,7 @@
 # Breman 🧠🚀  
 
-🚀 A passionate digital creator and developer turning ideas into real-world solutions, one line of code at a time.  
-💡 Whether it’s building web apps, smart systems, or creative interfaces — I’m all about crafting innovation and pushing boundaries.  
+🚀 Passionate developer turning ideas into practical and stylish digital solutions.
+💡 Whether it’s building smart apps, modern web projects, or futuristic interfaces, I’m all about creating things that make an impact.
 
 ---
 

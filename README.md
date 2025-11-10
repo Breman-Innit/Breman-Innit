@@ -1,4 +1,4 @@
-# Breman 🧠🚀  
+# Breman 💡🛠️🚀✨
 
 🚀 Passionate developer turning ideas into practical and stylish digital solutions.
 💡 Whether it’s building smart apps, modern web projects, or futuristic interfaces, I’m all about creating things that make an impact.

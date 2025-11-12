@@ -17,7 +17,7 @@
 ## 💫 About Me  
 🛠 Tech adventurer exploring the art of building meaningful and modern digital experiences.  
 🌌 By day, a developer; by night, a thinker, learning and creating with curiosity.  
-🎯 Innovation is my mission — “ordinary” is never the answer.  
+🎯 Building systems to solve real problems is the goal  .  
 🌱 Currently learning **Flutter, Dart**, and **React.js** to build full-stack, cross-platform apps.  
 
 ---

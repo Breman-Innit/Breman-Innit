@@ -1,6 +1,6 @@
-# Breman 💡🛠️🚀✨
+# Breman 💡
 
-🚀 Passionate developer turning ideas into practical and stylish digital solutions.
+Passionate developer turning ideas into practical and stylish digital solutions.
 💡 Whether it’s building smart apps, modern web projects, or futuristic interfaces, I’m all about creating things that make an impact.
 
 ---
@@ -14,15 +14,15 @@
 
 ---
 
-## 💫 About Me  
-🛠 Tech adventurer exploring the art of building meaningful and modern digital experiences.  
-🌌 By day, a developer; by night, a thinker, learning and creating with curiosity.  
-🎯 Building systems to solve real problems is the goal  .  
-🌱 Currently learning **Flutter, Dart**, and **React.js** to build full-stack, cross-platform apps.  
+##  About Me  
+ Tech adventurer exploring the art of building meaningful and modern digital experiences.  
+ By day, a developer; by night, a thinker, learning and creating with curiosity.  
+ Building systems to solve real problems is the goal  .  
+ Currently learning **Flutter, Dart**, and **React.js** to build full-stack, cross-platform apps.  
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />

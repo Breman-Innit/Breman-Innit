@@ -1,7 +1,7 @@
 # Breman 💡
 
-Passionate developer turning ideas into practical and stylish digital solutions.
-💡 Whether it’s building smart apps, modern web projects, or futuristic interfaces, I’m all about creating things that make an impact.
+Passionate backend developer building the logic and systems that power modern digital experiences.
+Focused on creating reliable APIs, working with databases, solving complex problems, and turning ideas into practical, scalable solutions.
 
 ---
 

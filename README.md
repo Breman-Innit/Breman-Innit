@@ -13,10 +13,11 @@ Focused on creating reliable APIs, working with databases, solving complex probl
 ---
 
 ##  About Me  
- Tech adventurer exploring the art of building meaningful and modern digital experiences.  
- By day, a developer; by night, a thinker, learning and creating with curiosity.  
- Building systems to solve real problems is the goal  .  
- Currently learning **Flutter, Dart**, and **React.js** to build full-stack, cross-platform apps.  
+Tech enthusiast passionate about building meaningful digital solutions and exploring the world of software development.
+By day, a developer in progress; always learning, experimenting, and turning ideas into practical solutions.
+Focused on building secure, scalable systems that solve real-world problems.
+
+Currently strengthening my skills in **Java, backend development, SQL, and React.js**, while exploring full-stack development and modern technologies.
 
 ---
 
